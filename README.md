@@ -2,14 +2,28 @@ gif![banner](img/banner.gif)
 
 # <p align="center">WELCOME TO MY GITHUB PAGE</p>
 
-<div style="text-align: center;">
+<table style="margin: auto;">
+	<tr>
+		<th>FIRST CIRCLE</th>
+		<th>-</th>
+		<th>SECOND CIRCLE</th>
+		<th>-</th>
+	</tr>
+	<tr>
+		<td><p align="center"><a href="https://github.com/mgayout/libft">LIBFT</a></p></td>
+		<td><img src="img/125.png" style="width:100px;"></td>
+		<td><p align="center"><a href="https://github.com/mgayout/so_long">SOLONG</a></p></td>
+		<td><img src="img/125.png" style="width:100px;"></td>
+	</tr>
+</table>
+
+
 |FIRST CIRCLE|-|SECOND CIRCLE|-|
 |------------|-|-------------|-|
 |<p align="center"><a href="https://github.com/mgayout/libft">LIBFT</a></p>|<img src="img/125.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/so_long">SOLONG</a></p>|<img src="img/125.png" style="width:100px;">|
 |<p align="center"><a href="https://github.com/mgayout/ft_printf">FT_PRINTF</a></p>|<img src="img/100.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/push_swap">PUSH_SWAP</a></p>|<img src="img/96.png" style="width:100px;">|
 |<p align="center"><a href="https://github.com/mgayout/get_next_line">GETNEXTLINE</a></p>|<img src="img/105.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/pipex">PIPEX</a></p>|<img src="img/120.png" style="width:100px;">|
 |<p align="center">BORN2BEROOT</p>|<img src="img/100.png" style="width:100px;">|<p align="center">EXAM RANK 02</p>|<img src="img/100.png" style="width:100px;">|
-</div>
 
 |THIRD CIRCLE|-|FOURTH CIRCLE|-|
 |------------|-|-------------|-|
