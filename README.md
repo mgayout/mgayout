@@ -4,10 +4,10 @@
 
 |FIRST CIRCLE|-|-|SECOND CIRCLE|-|-|
 |------------|-|-|-------------|-|-|
-|LIBFT|<img src="img/125.png" style="width:100px;">|||SOLONG|<img src="img/125.png" style="width:100px;">||
-|FT_PRINTF|<img src="img/100.png" style="width:100px;">|||PUSH_SWAP|<img src="img/96.png" style="width:100px;">||
-|GETNEXTLINE|<img src="img/105.png" style="width:100px;">|||PIPEX|<img src="img/120.png" style="width:100px;">||
-|BORN2BEROOT|<img src="img/100.png" style="width:100px;">|||EXAM RANK 02|<img src="img/100.png" style="width:100px;">||
+|LIBFT|<img src="img/125.png" style="width:100px;">||SOLONG|<img src="img/125.png" style="width:100px;">||
+|FT_PRINTF|<img src="img/100.png" style="width:100px;">||PUSH_SWAP|<img src="img/96.png" style="width:100px;">||
+|GETNEXTLINE|<img src="img/105.png" style="width:100px;">||PIPEX|<img src="img/120.png" style="width:100px;">||
+|BORN2BEROOT|<img src="img/100.png" style="width:100px;">||EXAM RANK 02|<img src="img/100.png" style="width:100px;">||
 
 
 |THIRD CIRCLE|
