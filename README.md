@@ -8,9 +8,7 @@ gif![banner](img/banner.gif)
   <table>
     <tr>
       <th>FIRST CIRCLE</th>
-      <th>-</th>
       <th>SECOND CIRCLE</th>
-      <th>-</th>
     </tr>
     <tr>
       <td><a href="https://github.com/mgayout/libft">LIBFT</a></td>
