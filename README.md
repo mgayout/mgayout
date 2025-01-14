@@ -8,9 +8,7 @@ gif![banner](img/banner.gif)
   <table>
     <tr>
       <th colspan="2" align="center">FIRST CIRCLE</th>
-      <th>-</th>
       <th colspan="2" align="center">SECOND CIRCLE</th>
-      <th>-</th>
     </tr>
     <tr>
       <td><p align="center"><a href="https://github.com/mgayout/libft">LIBFT</a></p></td>
@@ -43,9 +41,7 @@ gif![banner](img/banner.gif)
   <table>
     <tr>
       <th colspan="2" align="center">THIRD CIRCLE</th>
-      <th>-</th>
       <th colspan="2" align="center">FOURTH CIRCLE</th>
-      <th>-</th>
     </tr>
     <tr>
       <td><p align="center"><a href="https://github.com/mgayout/philosopher">PHILOSOPHER</a></p></td>
@@ -72,9 +68,7 @@ gif![banner](img/banner.gif)
   <table>
   	<tr>
     	<th colspan="2" align="center">CPP MODULE 0 / 4</th>
-    	<th>-</th>
 		<th colspan="2" align="center">CPP MODULE 5 / 9</th>
-    	<th>-</th>
     </tr>
     <tr>
 		<td><p align="center"><a href="https://github.com/mgayout/CPP00">CPP MODULE 00</a></p></td>
@@ -113,9 +107,7 @@ gif![banner](img/banner.gif)
   <table>
   	<tr>
     	<th colspan="2" align="center">FIFTH CIRCLE</th>
-    	<th>-</th>
 		<th colspan="2" align="center">SIXTH CIRCLE</th>
-    	<th>-</th>
     </tr>
     <tr>
 		<td><p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p></td>
