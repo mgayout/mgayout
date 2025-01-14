@@ -2,22 +2,25 @@ gif![banner](img/banner.gif)
 
 # <p align="center">WELCOME TO MY GITHUB PAGE</p>
 
+
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-	<table style="margin: auto;">
-		<tr>
-			<th>FIRST CIRCLE</th>
-			<th>-</th>
-			<th>SECOND CIRCLE</th>
-			<th>-</th>
-		</tr>
-		<tr>
-			<td><p align="center"><a href="https://github.com/mgayout/libft">LIBFT</a></p></td>
-			<td><img src="img/125.png" style="width:100px;"></td>
-			<td><p align="center"><a href="https://github.com/mgayout/so_long">SOLONG</a></p></td>
-			<td><img src="img/125.png" style="width:100px;"></td>
-		</tr>
-	</table>
+  <table style="margin: auto; text-align: center; border-collapse: collapse;">
+    <tr>
+      <th>FIRST CIRCLE</th>
+      <th>-</th>
+      <th>SECOND CIRCLE</th>
+      <th>-</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mgayout/libft" style="text-decoration: none; color: inherit;">LIBFT</a></td>
+      <td><img src="img/125.png" style="width: 100px; display: block; margin-left: auto; margin-right: auto;"></td>
+      <td><a href="https://github.com/mgayout/so_long" style="text-decoration: none; color: inherit;">SOLONG</a></td>
+      <td><img src="img/125.png" style="width: 100px; display: block; margin-left: auto; margin-right: auto;"></td>
+    </tr>
+  </table>
 </div>
+
 
 |FIRST CIRCLE|-|SECOND CIRCLE|-|
 |------------|-|-------------|-|
