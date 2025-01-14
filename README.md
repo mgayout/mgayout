@@ -18,6 +18,7 @@
 
 
 |CPP MODULE 0 / 4|-|-|CPP MODULE 5 / 9|-|-|
+|----------------|-|-|----------------|-|-|
 |CPP MODULE 00|<img src="img/80.png" style="width:100px;">||CPP MODULE 05|<img src="img/100.png" style="width:100px;">||
 |CPP MODULE 01|<img src="img/85.png" style="width:100px;">||CPP MODULE 06|<img src="img/100.png" style="width:100px;">||
 |CPP MODULE 02|<img src="img/80.png" style="width:100px;">||CPP MODULE 07|<img src="img/100.png" style="width:100px;">||
@@ -25,6 +26,7 @@
 |CPP MODULE 04|<img src="img/100.png" style="width:100px;">||CPP MODULE 09|<img src="img/86.png" style="width:100px;">||
 
 |FITH CIRCLE|-|-|SIXTH CIRCLE|-|-|
+|-----------|-|-|------------|-|-|
 |FT_IRC|<img src="img/115.png" style="width:100px;">||FT_TRANSCENDANCE|||
 |INCEPTION||||||
 |EXAM RANK 05|<img src="img/100.png" style="width:100px;">||EXAM RANK 06|||
