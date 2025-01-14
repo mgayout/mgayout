@@ -1,6 +1,6 @@
 ![banner](img/banner.gif)
 
-# <center>WELCOME TO MY GITHUB PAGE</center>
+# <div style="text-align: center;">WELCOME TO MY GITHUB PAGE</div>
 
 |FIRST CIRCLE|-|SECOND CIRCLE|-|
 |------------|-|-------------|-|
