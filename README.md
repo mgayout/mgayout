@@ -7,13 +7,13 @@ gif![banner](img/banner.gif)
 |<p align="center"><a href="https://github.com/mgayout/libft">LIBFT</a></p>|<img src="img/125.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/so_long">SOLONG</a></p>|<img src="img/125.png" style="width:100px;">|
 |<p align="center"><a href="https://github.com/mgayout/ft_printf">FT_PRINTF</a></p>|<img src="img/100.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/push_swap">PUSH_SWAP</a></p>|<img src="img/96.png" style="width:100px;">|
 |<p align="center"><a href="https://github.com/mgayout/get_next_line">GETNEXTLINE</a></p>|<img src="img/105.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/pipex">PIPEX</a></p>|<img src="img/120.png" style="width:100px;">|
-|BORN2BEROOT|<img src="img/100.png" style="width:100px;">|EXAM RANK 02|<img src="img/100.png" style="width:100px;">|
+|<p align="center">BORN2BEROOT</p>|<img src="img/100.png" style="width:100px;">|<p align="center">EXAM RANK 02</p>|<img src="img/100.png" style="width:100px;">|
 
 |THIRD CIRCLE|-|FOURTH CIRCLE|-|
 |------------|-|-------------|-|
 |<p align="center"><a href="https://github.com/mgayout/philosopher">PHILOSOPHER</a></p>|<img src="img/100.png" style="width:100px;">|<p align="center"><a href="https://github.com/mgayout/cub3D">CUB3D</a></p>|<img src="img/120.png" style="width:100px;">|
-|<p align="center"><a href="https://github.com/mgayout/minishell">MINISHELL</a></p>|<img src="img/100.png" style="width:100px;">|NETPRACTICE|<img src="img/100.png" style="width:100px;">|
-|EXAM RANK 03|<img src="img/100.png" style="width:100px;">|EXAM RANK 04|<img src="img/100.png" style="width:100px;">|
+|<p align="center"><a href="https://github.com/mgayout/minishell">MINISHELL</a></p>|<img src="img/100.png" style="width:100px;">|<p align="center">NETPRACTICE</p>|<img src="img/100.png" style="width:100px;">|
+|<p align="center">EXAM RANK 03</p>|<img src="img/100.png" style="width:100px;">|<p align="center">EXAM RANK 04</p>|<img src="img/100.png" style="width:100px;">|
 
 |CPP MODULE 0 / 4|-|CPP MODULE 5 / 9|-|
 |----------------|-|----------------|-|
@@ -25,6 +25,6 @@ gif![banner](img/banner.gif)
 
 |FITH CIRCLE|-|SIXTH CIRCLE|-|
 |-----------|-|------------|-|
-|<p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p>|<img src="img/115.png" style="width:100px;">|FT_TRANSCENDANCE|<img src="img/waiting.png" style="width:100px;">|
-|INCEPTION|<img src="img/waiting.png" style="width:100px;">|||
-|EXAM RANK 05|<img src="img/100.png" style="width:100px;">|EXAM RANK 06|<img src="img/waiting.png" style="width:100px;">|
+|<p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p>|<img src="img/115.png" style="width:100px;">|<p align="center">FT_TRANSCENDANCE</p>|<img src="img/waiting.png" style="width:100px;">|
+|<p align="center">INCEPTION</p>|<img src="img/waiting.png" style="width:100px;">|||
+|<p align="center">EXAM RANK 05</p>|<img src="img/100.png" style="width:100px;">|<p align="center">EXAM RANK 06</p>|<img src="img/waiting.png" style="width:100px;">|
