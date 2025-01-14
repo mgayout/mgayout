@@ -4,8 +4,8 @@ gif![banner](img/banner.gif)
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <table style="margin: auto; text-align: center; border-collapse: collapse;">
+<div align="center">
+  <table>
     <tr>
       <th>FIRST CIRCLE</th>
       <th>-</th>
@@ -13,10 +13,10 @@ gif![banner](img/banner.gif)
       <th>-</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/mgayout/libft" style="text-decoration: none; color: inherit;">LIBFT</a></td>
-      <td><img src="img/125.png" style="width: 100px; display: block; margin-left: auto; margin-right: auto;"></td>
-      <td><a href="https://github.com/mgayout/so_long" style="text-decoration: none; color: inherit;">SOLONG</a></td>
-      <td><img src="img/125.png" style="width: 100px; display: block; margin-left: auto; margin-right: auto;"></td>
+      <td><a href="https://github.com/mgayout/libft">LIBFT</a></td>
+      <td><img src="img/125.png" style="width:100px;"></td>
+      <td><a href="https://github.com/mgayout/so_long">SOLONG</a></td>
+      <td><img src="img/125.png" style="width:100px;"></td>
     </tr>
   </table>
 </div>
