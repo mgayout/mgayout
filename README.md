@@ -6,7 +6,7 @@
 |---------|------|------------|
 |FIRST CIRCLE|
 |-----------------------------|
-|LIBFT|![mark](img/125.png){width=50}||
+|LIBFT|<img src="img/125.png" style="width:100px;">||
 |FT_PRINTF|![mark](img/100.png)||
 |GETNEXTLINE|![mark](img/105.png)||
 |BORN2BEROOT|![mark](img/100.png)||
