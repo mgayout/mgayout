@@ -27,6 +27,6 @@
 
 |FITH CIRCLE|-|-|SIXTH CIRCLE|-|-|
 |-----------|-|-|------------|-|-|
-|FT_IRC|<img src="img/115.png" style="width:100px;">||FT_TRANSCENDANCE|||
-|INCEPTION||||||
-|EXAM RANK 05|<img src="img/100.png" style="width:100px;">||EXAM RANK 06|||
+|FT_IRC|<img src="img/115.png" style="width:100px;">||FT_TRANSCENDANCE|<img src="img/waiting.png" style="width:100px;">||
+|INCEPTION|<img src="img/waiting.png" style="width:100px;">|||||
+|EXAM RANK 05|<img src="img/100.png" style="width:100px;">||EXAM RANK 06|<img src="img/waiting.png" style="width:100px;">||
