@@ -1,50 +1,50 @@
-![banner](https://github.com/mgayout/mgayout/blob/main/img/banner.gif)
+![banner](img/banner.gif)
 
-# WELCOME TO MY GITHUB PAGE !
+# WELCOME TO MY GITHUB PAGE
 
 | PROJECT | MARK | REPOSITORY |
 |---------|------|------------|
 |FIRST CIRCLE|
 |-----------------------------|
-|LIBFT|![mark](https://github.com/mgayout/mgayout/blob/main/img/125.gif)||
-|FT_PRINTF|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|GETNEXTLINE|![mark](https://github.com/mgayout/mgayout/blob/main/img/105.gif)||
-|BORN2BEROOT|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
+|LIBFT|![mark](img/125.png)||
+|FT_PRINTF|![mark](img/100.png)||
+|GETNEXTLINE|![mark](img/105.png)||
+|BORN2BEROOT|![mark](img/100.png)||
 |-----------------------------|
 |SECOND CIRCLE|
 |-----------------------------|
-|SOLONG|![mark](https://github.com/mgayout/mgayout/blob/main/img/125.gif)||
-|PUSH_SWAP|![mark](https://github.com/mgayout/mgayout/blob/main/img/96.gif)||
-|PIPEX|![mark](https://github.com/mgayout/mgayout/blob/main/img/120.gif)||
-|EXAM RANK 02|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
+|SOLONG|![mark](img/125.png)||
+|PUSH_SWAP|![mark](img/96.png)||
+|PIPEX|![mark](img/120.png)||
+|EXAM RANK 02|![mark](img/100.png)||
 |-----------------------------|
 |THIRD CIRCLE|
 |-----------------------------|
-|PHILOSOPHER|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|MINISHELL|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|EXAM RANK 03|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
+|PHILOSOPHER|![mark](img/100.png)||
+|MINISHELL|![mark](img/100.png)||
+|EXAM RANK 03|![mark](img/100.png)||
 |-----------------------------|
 |FOURTH CIRCLE|
 |-----------------------------|
-|CUB3D|![mark](https://github.com/mgayout/mgayout/blob/main/img/120.gif)||
-|NETPRACTICE|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|CPP MODULE 00|![mark](https://github.com/mgayout/mgayout/blob/main/img/80.gif)||
-|CPP MODULE 01|![mark](https://github.com/mgayout/mgayout/blob/main/img/85.gif)||
-|CPP MODULE 02|![mark](https://github.com/mgayout/mgayout/blob/main/img/80.gif)||
-|CPP MODULE 03|![mark](https://github.com/mgayout/mgayout/blob/main/img/80.gif)||
-|CPP MODULE 04|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|EXAM RANK 04|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
+|CUB3D|![mark](img/120.png)||
+|NETPRACTICE|![mark](img/100.png)||
+|CPP MODULE 00|![mark](img/80.png)||
+|CPP MODULE 01|![mark](img/85.png)||
+|CPP MODULE 02|![mark](img/80.png)||
+|CPP MODULE 03|![mark](img/80.png)||
+|CPP MODULE 04|![mark](img/100.png)||
+|EXAM RANK 04|![mark](img/100.png)||
 |-----------------------------|
 |FITH CIRCLE|
 |-----------------------------|
-|CPP MODULE 05|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|CPP MODULE 06|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|CPP MODULE 07|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
-|CPP MODULE 08|![mark](https://github.com/mgayout/mgayout/blob/main/img/90.gif)||
-|CPP MODULE 09|![mark](https://github.com/mgayout/mgayout/blob/main/img/86.gif)||
-|FT_IRC|![mark](https://github.com/mgayout/mgayout/blob/main/img/115.gif)||
+|CPP MODULE 05|![mark](img/100.png)||
+|CPP MODULE 06|![mark](img/100.png)||
+|CPP MODULE 07|![mark](img/100.png)||
+|CPP MODULE 08|![mark](img/90.png)||
+|CPP MODULE 09|![mark](img/86.png)||
+|FT_IRC|![mark](img/115.png)||
 |INCEPTION|||
-|EXAM RANK 05|![mark](https://github.com/mgayout/mgayout/blob/main/img/100.gif)||
+|EXAM RANK 05|![mark](img/100.png)||
 |-----------------------------|
 |SIXTH CIRCLE|
 |-----------------------------|
