@@ -7,9 +7,9 @@ gif![banner](img/banner.gif)
 <div align="center">
   <table>
     <tr>
-      <th>FIRST CIRCLE</th>
+      <th colspan="2" align="center">FIRST CIRCLE</th>
       <th>-</th>
-      <th>SECOND CIRCLE</th>
+      <th colspan="2" align="center">SECOND CIRCLE</th>
       <th>-</th>
     </tr>
     <tr>
@@ -42,9 +42,9 @@ gif![banner](img/banner.gif)
 <div align="center">
   <table>
     <tr>
-      <th>THIRD CIRCLE</th>
+      <th colspan="2" align="center">THIRD CIRCLE</th>
       <th>-</th>
-      <th>FOURTH CIRCLE</th>
+      <th colspan="2" align="center">FOURTH CIRCLE</th>
       <th>-</th>
     </tr>
     <tr>
@@ -71,9 +71,9 @@ gif![banner](img/banner.gif)
 <div align="center">
   <table>
   	<tr>
-    	<th>CPP MODULE 0 / 4</th>
+    	<th colspan="2" align="center">CPP MODULE 0 / 4</th>
     	<th>-</th>
-		<th>CPP MODULE 5 / 9</th>
+		<th colspan="2" align="center">CPP MODULE 5 / 9</th>
     	<th>-</th>
     </tr>
     <tr>
@@ -112,9 +112,9 @@ gif![banner](img/banner.gif)
 <div align="center">
   <table>
   	<tr>
-    	<th>FIFTH CIRCLE</th>
+    	<th colspan="2" align="center">FIFTH CIRCLE</th>
     	<th>-</th>
-		<th>SIXTH CIRCLE</th>
+		<th colspan="2" align="center">SIXTH CIRCLE</th>
     	<th>-</th>
     </tr>
     <tr>
