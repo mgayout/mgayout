@@ -30,6 +30,8 @@
 
 <img align="right" alt="GIF" src="img/code.gif" width="400" height="250"/> 
 
+### 💻 Tools and Tech stack () => {
+
 <div style="display: flex;gap:'10px'" align="left">
 	<a href="https://www.python.org/">
 		<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="48" height="48" alt="HTML5" />
@@ -56,6 +58,8 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" />
 	</a>
 </div>
+
+### }
 
 # <p> </p>
 
@@ -178,33 +182,3 @@
 	</tr>
   </table>
 </div>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/> 
- 
-### 💻 Tools and Tech stack () => {
- 
-<div style="display: flex;gap:'10px'" align="left">
-<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="48" height="48" alt="HTML5" /></a>
-  <a href="https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /></a> 
-<a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" width="48" height="48" alt="R" /></a>    
-<!-- <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" /></a>  -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" /></a>
-  <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
-  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" /></a>
- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" width="48" height="48" alt="MaterialUI" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="Typescript" /></a>
-  <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
-  <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-<a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="Visual Studio Code" /></a>
-  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- 
-</div>
-
-### }
