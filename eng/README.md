@@ -1,6 +1,6 @@
 ![banner](../img/banner.gif)
 
-## <p align="center"><CONTACTS</p>
+## <p align="center">CONTACTS</p>
 
 <div align="center" flex="row">
   <a href="https://www.linkedin.com/in/maxime-gayout-169b581b7/" target="_blank">
