@@ -20,6 +20,8 @@
     </table>
 </div>
 
+# <p> </p>
+
 ## <p align="center">Bienvenue sur ma page GITHUB</p>
 
 <p>Actuellement étudiant à l’école 42 Nice, suite à une reconversion professionnelle, je suis à la recherche d’un stage de 4 à 6 mois en développement informatique afin de valider mon cursus de formation.</p>
