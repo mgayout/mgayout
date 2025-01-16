@@ -32,7 +32,7 @@
 
 <img align="right" alt="GIF" src="img/code.gif" width="250"/> 
 
-### 💻 Tools and Tech stack
+### 💻 Tools and Tech stack () => {
 
 <div style="display: flex;gap:'10px'" align="left">
 	<a href="https://www.python.org/">
@@ -60,6 +60,8 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" />
 	</a>
 </div>
+
+### }
 
 ### <p> </p>
 
