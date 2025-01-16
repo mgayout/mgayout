@@ -26,7 +26,7 @@
 			<th align="center">FRENCH VERSION</th>
 		</tr>
 		<tr>
-			<td><p align="center"><a href="https://github.com/mgayout/mgayout/README.md"><img src="../img/french.png" height="35"></a></p></td>
+			<td><p align="center"><a href="https://github.com/mgayout/mgayout/"><img src="../img/french.png" height="35"></a></p></td>
 		</tr>
 	</table>
 </div>
