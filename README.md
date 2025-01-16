@@ -1,6 +1,7 @@
 ![banner](img/banner.gif)
 
-## <p align="center">ENGLISH VERSION</p>  
+# <p align="center">ENGLISH VERSION</p>
+
 <p align="center"><img src="img/english.png" height="35"></p>
 
 <div align="center" flex="row">
