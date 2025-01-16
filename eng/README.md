@@ -28,7 +28,7 @@
 
 ## <p align="center">Welcome to my GITHUB page</p>
 
-<p>Currently a student at the 42 Nice school, following a professional, rigorous and creative retraining, I am looking for an internship of 4 to 6 months from April 2025, in IT development in order to validate my training course .</p>
+<p>Currently a student at the 42 Nice school, I am looking for an internship of 4 to 6 months in IT development to validate my training course.</p>
 
 ## <p align="center">PROJETS 42</p>
 
