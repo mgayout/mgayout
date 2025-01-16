@@ -1,4 +1,4 @@
-![banner](img/banner.gif)
+![banner](../img/banner.gif)
 
 <div align="center" flex="row">
   <a href="https://www.linkedin.com/in/maxime-gayout-169b581b7/" target="_blank">
