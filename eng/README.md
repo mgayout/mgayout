@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/maxime-gayout-169b581b7/" target="_blank">
 	<img src="../img/socialm/linkedin.png" height="35">
   </a>
-  <a href="maxime.gayout@free.fr" target="_blank">
+  <a href="mailto:maxime.gayout@free.fr" target="_blank">
 	<img src="../img/socialm/mail.png" height="35">
   </a>
   <a href="https://discord.com/users/maximegayout" target="_blank">
