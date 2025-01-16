@@ -32,7 +32,7 @@
 
 <img align="right" alt="GIF" src="img/code.gif" width="250"/> 
 
-### 💻 Tools and Tech stack () => {
+### 💻
 
 <div style="display: flex;gap:'10px'" align="left">
 	<a href="https://www.python.org/">
@@ -60,10 +60,6 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" />
 	</a>
 </div>
-
-### }
-
-### <p> </p>
 
 # <p> </p>
 
@@ -186,10 +182,6 @@
 	</tr>
   </table>
 </div>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/> 
- 
-### 💻 Tools and Tech stack () => {
  
 <div style="display: flex;gap:'10px'" align="left">
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="48" height="48" alt="HTML5" /></a>
@@ -214,5 +206,3 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  
 </div>
-
-### }
