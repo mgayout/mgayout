@@ -30,8 +30,6 @@
 
 <ber />
 
-<img align="right" alt="GIF" src="img/code.gif" width="250"/> 
-
 ### 💻
 
 <div style="display: flex;gap:'10px'" align="left">
@@ -41,8 +39,13 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" /></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" /></a>
+<a><img src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" width="48" height="48" alt="BASH" /></a>
+<a><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="CPP" /></a>
+
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="Visual Studio Code" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" /></a>
+<a><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="48" height="48" alt="GIT"></a>
+<a><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" width="48" height="48" alt="GITHUB"></a>
 </div>
 
 # <p> </p>
