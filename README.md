@@ -20,13 +20,7 @@
     <td style="text-align: right; width: 30%;">
       <table>
         <tr><th align="center">ENGLISH VERSION</th></tr>
-        <tr>
-          <td>
-            <a href="https://github.com/mgayout/mgayout/tree/main/eng">
-              <img src="img/english.png" height="50">
-            </a>
-          </td>
-        </tr>
+        <tr><td align="center"><a href="https://github.com/mgayout/mgayout/tree/main/eng"><img src="img/english.png" height="50"></a></td></tr>
       </table>
     </td>
   </tr>
