@@ -1,12 +1,5 @@
 <div align="center">
-	<table>
-		<tr>
-			<th align="center">ENGLISH VERSION</th>
-		</tr>
-		<tr>
-			<td><p align="center"><a href="https://github.com/mgayout/mgayout/tree/main/eng"><img src="img/english.png" height="35"></a></p></td>
-		</tr>
-	</table>
+	
 </div>
 
 <p> </p>
@@ -15,24 +8,27 @@
 
 <p> </p>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center; flex: 1;">
+	<a href="https://www.linkedin.com/in/maxime-gayout-169b581b7/" target="_blank"><img src="img/socialm/linkedin.png" height="50"></a>
+	<a href="mailto:maxime.gayout@free.fr" target="_blank"><img src="img/socialm/mail.png" height="50"></a>
+	<a href="https://discord.com/users/maximegayout" target="_blank"><img src="img/socialm/discord.png" height="50"></a>
+	<a href="https://www.instagram.com/maxime.gayout/" target="_blank"><img src="img/socialm/insta.png" height="50"></a>
+	<a href="https://x.com/MaximeGayout" target="_blank"><img src="img/socialm/X.png" height="50"></a>
+  </div>
+  <div style="text-align: right;">
+  	<table>
+		<tr><th align="center">ENGLISH VERSION</th></tr>
+		<tr><td><p align="center"><a href="https://github.com/mgayout/mgayout/tree/main/eng"><img src="img/english.png" height="35"></a></p></td></tr>
+	</table>
+  </div>
+</div>
+
+
 ### <p align="center">CONTACTS</p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/maxime-gayout-169b581b7/" target="_blank">
-    <img src="img/socialm/linkedin.png" height="50">
-  </a>
-  <a href="mailto:maxime.gayout@free.fr" target="_blank">
-    <img src="img/socialm/mail.png" height="50">
-  </a>
-  <a href="https://discord.com/users/maximegayout" target="_blank">
-    <img src="img/socialm/discord.png" height="50">
-  </a>
-  <a href="https://www.instagram.com/maxime.gayout/" target="_blank">
-    <img src="img/socialm/insta.png" height="50">
-  </a>
-  <a href="https://x.com/MaximeGayout" target="_blank">
-    <img src="img/socialm/X.png" height="50">
-  </a>
+  
 </div>
 
 <p> </p>
