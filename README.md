@@ -28,7 +28,7 @@
 
 <p>Actuellement étudiant à l’école 42 Nice, suite à une reconversion professionnelle, je suis à la recherche d’un stage de 4 à 6 mois en développement informatique afin de valider mon cursus de formation.</p>
 
-<img align="right" alt="GIF" src="img/code.gif" width="400" height="250"/> 
+<img align="right" alt="GIF" src="img/code.gif"> 
 
 ### 💻 Tools and Tech stack () => {
 
@@ -58,8 +58,6 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" />
 	</a>
 </div>
-
-### }
 
 # <p> </p>
 
