@@ -24,7 +24,11 @@
 
 ## <p align="center">Bienvenue sur ma page GITHUB</p>
 
+### <p>À propos de moi</p>
+
 <p>Actuellement étudiant à l’école 42 Nice, suite à une reconversion professionnelle, je suis à la recherche d’un stage de 4 à 6 mois en développement informatique afin de valider mon cursus de formation.</p>
+
+# <p> </p>
 
 ## <p align="center">PROJETS 42</p>
 
