@@ -20,20 +20,24 @@
 	<td style="text-align: right; width: 30%;">
 	  <table>
 		<tr><th align="center">FRENCH VERSION</th></tr>
-		<tr><td align="center"><a href="https://github.com/mgayout/mgayout/tree/main/eng"><img src="../img/french.png" height="50"></a></td></tr>
+		<tr><td align="center"><a href="https://github.com/mgayout/mgayout"><img src="../img/french.png" height="50"></a></td></tr>
 	  </table>
 	</td>
   </tr>
 </table>
+
+## <p align="center">Welcome to my GITHUB page</p>
+
+<p>Currently a student at the 42 Nice school, following a professional, rigorous and creative retraining, I am looking for an internship of 4 to 6 months from April 2025, in IT development in order to validate my training course .</p>
 
 ## <p align="center">PROJETS 42</p>
 
 <div align="center">
   <table>
 	<tr>
-	  <th colspan="2" align="center">PREMIER CERCLE</th>
-	  <th colspan="2" align="center">SECOND CERCLE</th>
-	  <th colspan="2" align="center">TROISIEME CERCLE</th>
+	  <th colspan="2" align="center">FIRST CIRCLE</th>
+	  <th colspan="2" align="center">SECOND CIRCLE</th>
+	  <th colspan="2" align="center">THIRD CIRCLE</th>
 	</tr>
 	<tr>
 	  <td><p align="center"><a href="https://github.com/mgayout/libft">LIBFT</a></p></td>
@@ -73,9 +77,9 @@
 <div align="center">
   <table>
 	<tr>
-	  <th colspan="2" align="center">QUATRIEME CERCLE</th>
-	  <th colspan="2" align="center">CINQUIEME CERCLE</th>
-	  <th colspan="2" align="center">SIXIEME CERCLE</th>
+	  <th colspan="2" align="center">FOURTH CIRCLE</th>
+	  <th colspan="2" align="center">FIFTH CIRCLE</th>
+	  <th colspan="2" align="center">SIXTH CIRCLE</th>
 	</tr>
 	<tr>
 	  <td><p align="center"><a href="https://github.com/mgayout/cub3D">CUB3D</a></p></td>
