@@ -18,8 +18,16 @@
   </a>
 </div>
 
-<p align="center">ENGLISH VERSION</p>
-<p align="center"><img src="img/english.png" height="35"></p>
+<div align="center">
+	<table>
+		<tr>
+			<th align="center">ENGLISH VERSION</th>
+		</tr>
+		<tr>
+			<td><p align="center"><img src="img/english.png" height="35"></p></td>
+		</tr>
+	</table>
+</div>
 
 ### <p align="center">WELCOME TO MY GITHUB PAGE</p>
 
