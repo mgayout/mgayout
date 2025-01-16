@@ -26,7 +26,7 @@
 			<th align="center">ENGLISH VERSION</th>
 		</tr>
 		<tr>
-			<td><p align="center"><a href="https://github.com/mgayout/mgayout/README_eng.mf"><img src="img/english.png" height="35"></a></p></td>
+			<td><p align="center"><a href="https://github.com/mgayout/mgayout/eng/README.md"><img src="img/english.png" height="35"></a></p></td>
 		</tr>
 	</table>
 </div>
