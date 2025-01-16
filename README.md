@@ -1,6 +1,6 @@
 ![banner](img/banner.gif)
 
-<p> </p>
+<ber />
 
 <div align="center">
 	<table>
@@ -27,6 +27,8 @@
 ### <p>À propos de moi</p>
 
 <p>Actuellement étudiant à l’école 42 Nice, suite à une reconversion professionnelle, je suis à la recherche d’un stage de 4 à 6 mois en développement informatique afin de valider mon cursus de formation.</p>
+
+<ber />
 
 <img align="right" alt="GIF" src="img/code.gif" width="250"/> 
 
