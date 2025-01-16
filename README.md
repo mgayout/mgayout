@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/maxime-gayout-169b581b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="maxime.gayout@free.fr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mail logo"  />
+  </a>
   <a href="https://discord.com/users/maximegayout" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -14,6 +17,8 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+# 
 
 # <p align="center">WELCOME TO MY GITHUB PAGE</p>
 
@@ -126,11 +131,11 @@
 		<td><p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p></td>
 		<td><img src="img/115.png" style="width:100px;"></td>
 		<td><p align="center">FT_TRANSCENDANCE</p></td>
-		<td><img src="img/waiting.png" style="width:100px;"></td>
+		<td><img src="img/loading.gif" style="width:100px;"></td>
 	</tr>
 	<tr>
 		<td><p align="center">INCEPTION</p></td>
-		<td><img src="img/waiting.png" style="width:100px;"></td>
+		<td><img src="img/loading.gif" style="width:100px;"></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -138,7 +143,7 @@
 		<td><p align="center">EXAM RANK 05</p></td>
 		<td><img src="img/100.png" style="width:100px;"></td>
 		<td><p align="center">EXAM RANK 06</td>
-		<td><img src="img/waiting.png" style="width:100px;"></td>
+		<td><img src="img/loading.gif" style="width:100px;"></td>
 	</tr>
   </table>
 </div>
