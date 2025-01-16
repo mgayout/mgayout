@@ -142,7 +142,7 @@
 	<tr>
 		<td><p align="center">EXAM RANK 05</p></td>
 		<td><img src="img/100.png" style="width:100px;"></td>
-		<td><p align="center">EXAM RANK 06</td>
+		<td><p align="center">EXAM RANK 06</p></td>
 		<td><p align="center"><img src="img/loading.gif" style="width:25px;"></p></td>
 	</tr>
   </table>
