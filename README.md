@@ -131,11 +131,11 @@
 		<td><p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p></td>
 		<td><img src="img/115.png" style="width:100px;"></td>
 		<td><p align="center">FT_TRANSCENDANCE</p></td>
-		<td><img src="img/loading.gif" style="width:100px;"></td>
+		<td><img src="img/loading.gif" style="width:50px;"></td>
 	</tr>
 	<tr>
 		<td><p align="center">INCEPTION</p></td>
-		<td><img src="img/loading.gif" style="width:100px;"></td>
+		<td><img src="img/loading.gif" style="width:50px;"></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -143,7 +143,7 @@
 		<td><p align="center">EXAM RANK 05</p></td>
 		<td><img src="img/100.png" style="width:100px;"></td>
 		<td><p align="center">EXAM RANK 06</td>
-		<td><img src="img/loading.gif" style="width:100px;"></td>
+		<td><img src="img/loading.gif" style="width:50px;"></td>
 	</tr>
   </table>
 </div>
