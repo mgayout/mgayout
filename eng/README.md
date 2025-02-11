@@ -107,13 +107,13 @@
 	  <td><img src="../img/note/120.png" style="width:75px;"></td>
 	  <td><p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p></td>
 	  <td><img src="../img/note/115.png" style="width:75px;"></td>
-	  <td><p align="center">FT_TRANSCENDANCE</p></td>
+	  <td><p align="center"><a href="https://github.com/mgayout/ft_transcendence">FT_TRANSCENDENCE</a></p></td>
 	  <td><p align="center"><img src="../img/loading.gif" style="width:25px;"></p></td>
 	</tr>
 	<tr>
 		<td><p align="center">NETPRACTICE</p></td>
 		<td><img src="../img/note/100.png" style="width:75px;"></td>
-		<td><p align="center">INCEPTION</p></td>
+		<td><p align="center"><a href="https://github.com/mgayout/inception">INCEPTION</a></p></td>
 		<td><p align="center"><img src="../img/loading.gif" style="width:25px;"></p></td>
 		<td></td>
 		<td></td>
