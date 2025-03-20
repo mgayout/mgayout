@@ -114,7 +114,7 @@
 		<td><p align="center">NETPRACTICE</p></td>
 		<td><img src="img/note/100.png" style="width:75px;"></td>
 		<td><p align="center"><a href="https://github.com/mgayout/inception">INCEPTION</a></p></td>
-		<td><p align="center"><img src="img/loading.gif" style="width:25px;"></p></td>
+		<td><p align="center"><img src="img/note/100.png" style="width:75px;"></p></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -166,7 +166,7 @@
 		<td><p align="center"><a href="https://github.com/mgayout/CPP09">CPP MODULE 09</a></p></td>
 		<td><img src="img/note/86.png" style="width:75px;"></td>
 		<td><p align="center">EXAM RANK 06</p></td>
-		<td><p align="center"><img src="img/loading.gif" style="width:25px;"></p></td>
+		<td><p align="center"><img src="img/note/100.png" style="width:75px;"></p></td>
 	</tr>
   </table>
 </div>
