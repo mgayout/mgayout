@@ -108,7 +108,7 @@
 	  <td><p align="center"><a href="https://github.com/mgayout/ft_irc">FT_IRC</a></p></td>
 	  <td><img src="../img/note/115.png" style="width:75px;"></td>
 	  <td><p align="center"><a href="https://github.com/mgayout/ft_transcendence">FT_TRANSCENDENCE</a></p></td>
-	  <td><p align="center"><img src="../img/loading.gif" style="width:25px;"></p></td>
+	  <td><p align="center"><img src="../img/note/125.png" style="width:75px;"></p></td>
 	</tr>
 	<tr>
 		<td><p align="center">NETPRACTICE</p></td>
